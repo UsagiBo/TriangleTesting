@@ -1,0 +1,6 @@
+c:\users\rumyana\documents\visual studio 2015\Projects\TriangleTesting\TriangleTesting\bin\Debug\TriangleTesting.exe.config
+c:\users\rumyana\documents\visual studio 2015\Projects\TriangleTesting\TriangleTesting\bin\Debug\TriangleTesting.exe
+c:\users\rumyana\documents\visual studio 2015\Projects\TriangleTesting\TriangleTesting\bin\Debug\TriangleTesting.pdb
+c:\users\rumyana\documents\visual studio 2015\Projects\TriangleTesting\TriangleTesting\obj\Debug\TriangleTesting.csprojResolveAssemblyReference.cache
+c:\users\rumyana\documents\visual studio 2015\Projects\TriangleTesting\TriangleTesting\obj\Debug\TriangleTesting.exe
+c:\users\rumyana\documents\visual studio 2015\Projects\TriangleTesting\TriangleTesting\obj\Debug\TriangleTesting.pdb
