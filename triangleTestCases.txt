@@ -1,0 +1,8 @@
+input:111
+output:equilateral
+input:000
+output:can not be null
+input: 121
+output:equilateral
+input:123
+output: scalene
